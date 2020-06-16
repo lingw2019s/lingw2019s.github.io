@@ -1,9 +1,10 @@
-## CIT Code Portfolio for M. O'Shaunessy
+
+<h2>CIT Code Portfolio for M. O'Shaunessy</h2>
 The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
 
 The CIT minor prepares students to use and apply technologies in workplace environments that require development and management of databases, computer networks, web applications, and software systems.
 
-## CIT Class Projects
+<h2>CIT Class Projects</h2>
 The CIT minor consists of six classes:
 
 <ol>
@@ -26,10 +27,9 @@ The CIT minor consists of six classes:
      </li>
      </ul>
   </blockquote>
-  </li>
 </ol>
 
-5. <b>CIS 111 Web Programming</b>. ES6, jQuery.
+5. <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
 <blockquote>
   <a href="https://pages.uoregon.edu/michaelh/111/"> 111 Projects (uoregon.edu)</a>
 </blockquote>
