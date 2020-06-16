@@ -1,13 +1,3 @@
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Code Portfolio</title>
-  </head>
-  <body>
-
     <h2>Ling Wang's Code Portfolio</h2>
 
     My code Portfolio is a collection of CIT projects focused on development and management of databases, computer networks, web applications, and software systems.
@@ -42,6 +32,3 @@
     </blockquote>
 
     </ol>
-
-  </body>
-  </html>
