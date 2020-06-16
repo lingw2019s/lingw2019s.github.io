@@ -30,4 +30,3 @@ My code Portfolio is a collection of CIT projects focused on development and man
 <blockquote>
 111 Projects
 </blockquote>
-</ol>
